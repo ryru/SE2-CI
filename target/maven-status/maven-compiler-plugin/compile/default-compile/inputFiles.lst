@@ -1,0 +1,15 @@
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/models/JobListModel.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/models/PeopleTableModel.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/persistence/ActiveRecord.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/domain/Person.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/listeners/PeopleTableSelectionListener.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/ListUpdate.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/GradientPanel.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/PetManagerFrame.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/StatisticWindow.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/petmanager/PetManager.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/renderers/PetIconsTableCellRenderer.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/renderers/PetIconsPanel.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/domain/Pet.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/persistence/ActiveRecordManager.java
+/home/pascal/Documents/Bildung/fh/hsr/sem4/SE2/Übungen/W2/my-app/src/main/java/ch/hsr/ifs/ui/models/PetsTableModel.java
